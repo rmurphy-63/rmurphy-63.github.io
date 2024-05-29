@@ -1,7 +1,10 @@
 # Data Scientist
 
+### Technical Skills: Python, SQL, MATLAB, Tableau
+
 ## Education
-Physics, MS
+- M.S., Physics | University of New Hampshire (_May 2024_)
+- B.S., Physics | University of New Hampshire (_May 2022_)
 
 ## Projects
 These projects showcase my skills in data cleaning, exploratory data analysis, and machine learning. For projects where it is appropriate, I have attached a streamlit dashboard showing my results in an interactive format.
